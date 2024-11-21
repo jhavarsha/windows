@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N9eB628S1Yc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pradip\\MyNetApp\\MyNetApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pradip\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\pradip\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
